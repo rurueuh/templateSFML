@@ -1,0 +1,12 @@
+[
+{
+  "directory": "/home/ruru/Desktop/epitech/perso/spriteCreator/lib/build",
+  "command": "/usr/bin/g++   -I/home/ruru/Desktop/epitech/perso/spriteCreator/lib/.  -g   -o CMakeFiles/mylib.dir/Collision/Collision.cpp.o -c /home/ruru/Desktop/epitech/perso/spriteCreator/lib/Collision/Collision.cpp",
+  "file": "/home/ruru/Desktop/epitech/perso/spriteCreator/lib/Collision/Collision.cpp"
+},
+{
+  "directory": "/home/ruru/Desktop/epitech/perso/spriteCreator/lib/build",
+  "command": "/usr/bin/g++   -I/home/ruru/Desktop/epitech/perso/spriteCreator/lib/.  -g   -o CMakeFiles/mylib.dir/Collision/CollisionPrivate.cpp.o -c /home/ruru/Desktop/epitech/perso/spriteCreator/lib/Collision/CollisionPrivate.cpp",
+  "file": "/home/ruru/Desktop/epitech/perso/spriteCreator/lib/Collision/CollisionPrivate.cpp"
+}
+]

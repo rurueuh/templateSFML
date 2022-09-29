@@ -1,0 +1,12 @@
+[
+{
+  "directory": "/home/ruru/Desktop/epitech/perso/gravitySpacial/build",
+  "command": "/usr/bin/g++   -I/home/ruru/Desktop/epitech/perso/gravitySpacial/lib/Collision -I/home/ruru/Desktop/epitech/perso/gravitySpacial/lib -I/home/ruru/Desktop/epitech/perso/gravitySpacial/src/Game -I/home/ruru/Desktop/epitech/perso/gravitySpacial/src/SFML -I/home/ruru/Desktop/epitech/perso/gravitySpacial/./SFML/include  -g   -o CMakeFiles/game.dir/src/Game/Game.cpp.o -c /home/ruru/Desktop/epitech/perso/gravitySpacial/src/Game/Game.cpp",
+  "file": "/home/ruru/Desktop/epitech/perso/gravitySpacial/src/Game/Game.cpp"
+},
+{
+  "directory": "/home/ruru/Desktop/epitech/perso/gravitySpacial/build",
+  "command": "/usr/bin/g++   -I/home/ruru/Desktop/epitech/perso/gravitySpacial/lib/Collision -I/home/ruru/Desktop/epitech/perso/gravitySpacial/lib -I/home/ruru/Desktop/epitech/perso/gravitySpacial/src/Game -I/home/ruru/Desktop/epitech/perso/gravitySpacial/src/SFML -I/home/ruru/Desktop/epitech/perso/gravitySpacial/./SFML/include  -g   -o CMakeFiles/game.dir/src/main.cpp.o -c /home/ruru/Desktop/epitech/perso/gravitySpacial/src/main.cpp",
+  "file": "/home/ruru/Desktop/epitech/perso/gravitySpacial/src/main.cpp"
+}
+]

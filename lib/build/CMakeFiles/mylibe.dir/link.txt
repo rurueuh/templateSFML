@@ -1,0 +1,2 @@
+/usr/bin/ar qc libmylibe.a  CMakeFiles/mylibe.dir/Collision/Collision.cpp.o CMakeFiles/mylibe.dir/Collision/CollisionPrivate.cpp.o
+/usr/bin/ranlib libmylibe.a

@@ -1,0 +1,28 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/ruru/Desktop/epitech/perso/spriteCreator/lib/Collision/Collision.cpp
+Collision.hpp
+/home/ruru/Desktop/epitech/perso/spriteCreator/lib/Collision/Collision.hpp
+iostream
+-
+
+/home/ruru/Desktop/epitech/perso/spriteCreator/lib/Collision/Collision.hpp
+SFML/Graphics.hpp
+-
+math.h
+-
+vector
+-
+
+/home/ruru/Desktop/epitech/perso/spriteCreator/lib/Collision/CollisionPrivate.cpp
+Collision.hpp
+/home/ruru/Desktop/epitech/perso/spriteCreator/lib/Collision/Collision.hpp
+iostream
+-
+

@@ -1,0 +1,3 @@
+/home/ruru/Desktop/epitech/perso/spriteCreator/lib/build/CMakeFiles/edit_cache.dir
+/home/ruru/Desktop/epitech/perso/spriteCreator/lib/build/CMakeFiles/rebuild_cache.dir
+/home/ruru/Desktop/epitech/perso/spriteCreator/lib/build/CMakeFiles/mylib.dir

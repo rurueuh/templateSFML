@@ -1,0 +1,1 @@
+/usr/bin/g++  -g   CMakeFiles/game.dir/src/Game/Game.cpp.o CMakeFiles/game.dir/src/main.cpp.o  -o game  ../lib/libmylib.a -lsfml-graphics -lsfml-window -lsfml-system -lsfml-network -lsfml-audio 
